@@ -4,9 +4,7 @@ Backend engineer focused on **production systems**, **APIs**, **integrations**, 
 
 ## About
 
-I work primarily with backend development, operational platforms, and long-term maintainability, with experience building systems used in real production environments across logistics, education, and industrial operations.
-
-My background combines software engineering, technical leadership, and education, with work involving backend services, infrastructure decisions, external integrations, geospatial systems, and AI-powered workflows.
+I work primarily with backend development, operational platforms, and long-term maintainability, with experience building systems used in real production environments across logistics, education, and industrial operations. My background combines software engineering, technical leadership, and education, with work involving backend services, infrastructure decisions, external integrations, geospatial systems, and AI-powered workflows.
 
 ## Core Technologies
 
