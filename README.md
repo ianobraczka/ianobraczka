@@ -19,10 +19,6 @@ My background combines software engineering, technical leadership, and education
 
 - [**classroom-ops**](https://github.com/ianobraczka/classroom-ops) — Classroom operations platform: FastAPI, PostgreSQL, modular backend layout.
 - [**data_generator**](https://github.com/ianobraczka/data_generator) — Synthetic dataset generator: schema-driven generation, CLI tooling, AI-assisted schema creation.
-- [**uniflix**](https://github.com/ianobraczka/uniflix) — Academic Rails project on movie recommendations: collaborative, content-based, and hybrid filtering.
-- [**ianobraczka.github.io**](https://github.com/ianobraczka/ianobraczka.github.io) — Personal portfolio: backend projects, production-oriented work, and engineering context.
-
-Older academic or teaching-related repos stay public when they still illustrate something concrete; they are labeled and scoped honestly.
 
 ## Links
 
