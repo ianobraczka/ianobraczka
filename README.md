@@ -1,6 +1,6 @@
 # Ian Obraczka
 
-Backend engineer focused on **production systems**, **APIs**, **integrations**, and **pragmatic software architecture**—with an eye on maintainability and clear technical direction.
+Backend engineer focused on **production systems**, **APIs**, **integrations**, and **software architecture**.
 
 ## About
 
