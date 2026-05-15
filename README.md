@@ -8,7 +8,7 @@ I spend most of my time on backend development, operational platforms, and syste
 
 My background mixes **hands-on engineering**, **technical leadership**, and **education**. That includes backend services, infrastructure choices, external integrations, geospatial tooling, and AI-assisted workflows where the hard part is still solid engineering around the edges.
 
-## Core technologies
+## Core Technologies
 
 - **Backend:** Python, FastAPI, Ruby on Rails, Java
 - **Data:** PostgreSQL, MongoDB, DynamoDB
