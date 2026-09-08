@@ -21,5 +21,4 @@ I work primarily with backend development, operational platforms, and long-term 
 ## Links
 
 - **Portfolio:** https://ianobraczka.github.io/  
-- **LinkedIn:** https://www.linkedin.com/in/ianobraczka/  
-- **GitHub:** https://github.com/ianobraczka  
+- **LinkedIn:** https://www.linkedin.com/in/ianobraczka/ 
